@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    .display {
+        color: grey;
+        display: flex;
+        justify-content: space-between;
+      font-family: 'Open Sans', sans-serif;
+      font-family: 'Poppins', sans-serif;
+      background-color: #F9F3E8;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      font-size: 8px;
+    .copy{
+        padding-left: 30px;
+    }
+    .droite {
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+
+        .t{
+            margin-right: 10px;
+            }
+            .pri{
+                margin-right: 10px;
+            }
+            .pre{
+                margin-right: 30px;
+            }
+        }
+    
+    }
+}

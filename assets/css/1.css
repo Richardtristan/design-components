@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+body .display {
+  color: grey;
+  display: flex;
+  justify-content: space-between;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  background-color: #F9F3E8;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 8px;
+}
+body .display .copy {
+  padding-left: 30px;
+}
+body .display .droite {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+body .display .droite .t {
+  margin-right: 10px;
+}
+body .display .droite .pri {
+  margin-right: 10px;
+}
+body .display .droite .pre {
+  margin-right: 30px;
+}/*# sourceMappingURL=1.css.map */

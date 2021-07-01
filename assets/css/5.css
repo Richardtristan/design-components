@@ -1,0 +1,91 @@
+body {
+  font-family: sans-serif;
+}
+
+.bas1 {
+  width: 50%;
+  float: left;
+}
+
+.bas2 {
+  width: 50%;
+  float: right;
+}
+
+.more, .date {
+  color: grey;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 3%;
+}
+
+.typo2 {
+  margin-left: 3%;
+}
+
+.test {
+  float: left;
+  margin-right: 3%;
+}
+
+.test2 {
+  width: 13%;
+}
+
+.hr1, .hr2 {
+  display: inline-block;
+}
+
+.hr1 {
+  width: 25%;
+  height: 1px;
+  background-color: #000000;
+  border: none;
+}
+
+.hr2 {
+  width: 75%;
+  height: 1px;
+  background-color: #aaaaaa;
+  border: none;
+}
+
+h3 {
+  width: 100%;
+  margin-top: 6%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mini {
+  padding-right: 2%;
+  padding-left: 1%;
+}
+
+.date1 {
+  color: grey;
+  width: 100%;
+}
+
+.mini {
+  color: grey;
+}
+
+.box1, .mini, .date {
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  align-content: flex-start;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+.container {
+  padding-left: 5%;
+  padding-right: 5%;
+}/*# sourceMappingURL=5.css.map */

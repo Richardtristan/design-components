@@ -1,0 +1,192 @@
+@media (min-width: 1400px) {
+  p {
+    width: 60%;
+  }
+
+  .all {
+    padding-right: 25%;
+    padding-left: 25%;
+  }
+
+  .all1 {
+    padding-right: 25%;
+    padding-left: 25%;
+  }
+}
+@media (min-width: 1100px) {
+  body {
+    margin: 0;
+    color: #5f5656;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+
+  .all1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    align-items: center;
+    margin-right: 1%;
+  }
+
+  .plus {
+    padding-right: 3%;
+    padding-top: 3%;
+    font-size: 10px;
+  }
+
+  .stars1 {
+    justify-content: center;
+  }
+
+  .all {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .com {
+    display: inline;
+    font-size: 8px;
+  }
+
+  .fleche {
+    height: 100%;
+    padding-top: 10%;
+    padding-right: 2%;
+  }
+
+  .container1 {
+    padding-left: 5%;
+  }
+
+  .card {
+    margin-right: 2%;
+  }
+
+  p {
+    padding-right: 20%;
+  }
+
+  .expe {
+    font-weight: bold;
+  }
+
+  .fleche1 {
+    padding-right: 1%;
+    width: 12%;
+  }
+}
+@media (max-width: 1100px) {
+  body {
+    margin: 0;
+    color: #5f5656;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+
+  .all1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    align-items: center;
+    margin-right: 1%;
+  }
+
+  .card {
+    width: 50%;
+    display: grid;
+  }
+
+  .plus {
+    padding-right: 3%;
+    padding-top: 3%;
+    font-size: 10px;
+  }
+
+  .stars1 {
+    width: 5%;
+    justify-content: center;
+  }
+
+  .all {
+    display: grid;
+    padding-top: 5%;
+    padding-right: 5%;
+  }
+
+  .fleche {
+    height: 100%;
+    padding-top: 10%;
+    padding-right: 2%;
+  }
+
+  .container1 {
+    padding-left: 5%;
+  }
+
+  .container {
+    padding-bottom: 10%;
+  }
+
+  .expe {
+    font-weight: bold;
+  }
+
+  .fleche1 {
+    padding-right: 1%;
+    width: 12%;
+  }
+}
+@media (max-width: 600px) {
+  body {
+    margin: 0;
+    color: #5f5656;
+    font-family: sans-serif;
+    font-size: 14px;
+  }
+
+  .all1 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    align-items: center;
+    margin-right: 1%;
+  }
+
+  .card {
+    width: 40%;
+    column-count: 1;
+    margin-right: 2%;
+  }
+
+  .plus {
+    padding-right: 3%;
+    padding-top: 3%;
+    font-size: 10px;
+  }
+
+  .all {
+    column-count: 1;
+  }
+
+  .fleche {
+    height: 100%;
+    padding-top: 10%;
+    padding-right: 2%;
+  }
+
+  .container1 {
+    padding-left: 15%;
+  }
+
+  .stars {
+    width: 150%;
+  }
+
+  .expe {
+    font-weight: bold;
+  }
+}/*# sourceMappingURL=3.css.map */
